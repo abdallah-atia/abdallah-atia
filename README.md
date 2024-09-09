@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @abdallah-atia
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently reviewing my basics
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: atia.o.abdallah@gmail.com
 - ⚡ Fun fact: I love paleontology, and my favorite dinosaur is spinosaurus aegyptiacus
 
